@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "createaddition:iron_wire"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "createaddition:connector"
+    }
+  ],
+  "result": {
+    "item": "createaddition:small_light_connector"
+  }
+}

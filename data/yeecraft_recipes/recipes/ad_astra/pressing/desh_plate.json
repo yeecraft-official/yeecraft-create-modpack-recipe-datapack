@@ -1,0 +1,14 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "ad_astra:desh_ingot"
+    }
+  ],
+"results": [
+  {
+    "item": "ad_astra:desh_plate",
+    "count": 1
+  }
+]
+}

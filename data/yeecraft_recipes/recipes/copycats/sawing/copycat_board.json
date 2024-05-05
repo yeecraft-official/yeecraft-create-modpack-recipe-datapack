@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:zinc_ingot"
+    }
+  ],
+"results": [
+  {
+    "item": "copycats:copycat_board",
+    "count": 8
+  }
+]
+}

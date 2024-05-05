@@ -1,0 +1,39 @@
+{
+  "values": [
+    "decorative_blocks:oak_support",
+    "decorative_blocks:birch_support",
+    "decorative_blocks:spruce_support",
+    "decorative_blocks:acacia_support",
+    "decorative_blocks:jungle_support",
+    "decorative_blocks:dark_oak_support",
+    "decorative_blocks:mangrove_support",
+    "decorative_blocks:cherry_support",
+    "decorative_blocks:bamboo_support",
+    "decorative_blocks:crimson_support",
+    "decorative_blocks:warped_support",
+    
+    "decorative_blocks:oak_palisade",
+    "decorative_blocks:birch_palisade",
+    "decorative_blocks:spruce_palisade",
+    "decorative_blocks:acacia_palisade",
+    "decorative_blocks:jungle_palisade",
+    "decorative_blocks:dark_oak_palisade",
+    "decorative_blocks:mangrove_palisade",
+    "decorative_blocks:cherry_palisade",
+    "decorative_blocks:bamboo_palisade",
+    "decorative_blocks:crimson_palisade",
+    "decorative_blocks:warped_palisade",
+
+    "decorative_blocks:oak_seat",
+    "decorative_blocks:birch_seat",
+    "decorative_blocks:spruce_seat",
+    "decorative_blocks:acacia_seat",
+    "decorative_blocks:jungle_seat",
+    "decorative_blocks:dark_oak_seat",
+    "decorative_blocks:mangrove_seat",
+    "decorative_blocks:cherry_seat",
+    "decorative_blocks:bamboo_seat",
+    "decorative_blocks:crimson_seat",
+    "decorative_blocks:warped_seat"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:zinc_ingot"
+    }
+  ],
+"results": [
+  {
+    "item": "copycats:copycat_heavy_weighted_pressure_plate",
+    "count": 2
+  }
+]
+}

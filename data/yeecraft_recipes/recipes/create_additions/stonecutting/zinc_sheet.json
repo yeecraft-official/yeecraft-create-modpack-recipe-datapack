@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+      {
+        "item": "createdeco:zinc_sheet"
+      }
+    ],
+    "result": "createaddition:zinc_sheet",
+    "count": 1
+  }
+  
